@@ -49,6 +49,7 @@ export default {
     '@nuxtjs/axios',
     'nuxt-webfontloader',
     'nuxt-microcms-module',
+    '@nuxtjs/style-resources'
   ],
 
   microcms: {
